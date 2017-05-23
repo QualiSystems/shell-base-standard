@@ -1,5 +1,5 @@
 from cloudshell.shell.core.resource_driver_interface import ResourceDriverInterface
-from cloudshell.shell.core.driver_context import InitCommandContext, ResourceCommandContext, AutoLoadCommandContext, \
+from cloudshell.shell.core.context import InitCommandContext, ResourceCommandContext, AutoLoadCommandContext, \
     AutoLoadAttribute, AutoLoadResource, AutoLoadDetails
 
 
